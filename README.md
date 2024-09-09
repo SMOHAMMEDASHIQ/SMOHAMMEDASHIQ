@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
 I am **S MOHAMMED ASHIQ**, currently pursuing my BE from RV College of Engineering. I am a passionate developer and analyst with a strong interest in various technologies, including web and app development, machine learning, and data analytics. Here's a glimpse of the tech stacks I work with:
 
@@ -51,4 +51,7 @@ I am **S MOHAMMED ASHIQ**, currently pursuing my BE from RV College of Engineeri
 ### 📫 How to Reach Me:
 - **Email:** [youremail@example.com](mailto:youremail@example.com)
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LeetCode:** [Your LeetCode Profile](https://leetcode.com/yourprofile)
 
+### 🌟 GitHub Contributions
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&hide_title=true&hide=contribs&theme=radical)
