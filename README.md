@@ -1,6 +1,13 @@
-<h1 align="center">Hi there 👋</h1>
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/s-mohammed-ashiq-111792236/)
-- **LeetCode:** [LeetCode Profile](https://leetcode.com/u/sashiq2003/)
+<h1 align="center">Hi there 👋 , I'm Ashiq</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-mohammed-ashiq-111792236/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://leetcode.com/u/sashiq2003/">
+    <img src="https://img.shields.io/badge/LeetCode-F4C20D?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+</p>
 
 I am **S MOHAMMED ASHIQ**, currently pursuing my BE from RV College of Engineering. I am a passionate developer and analyst with a strong interest in various technologies, including web and app development, machine learning, and data analytics. Here's a glimpse of the tech stacks I work with:
 
@@ -49,6 +56,3 @@ I am **S MOHAMMED ASHIQ**, currently pursuing my BE from RV College of Engineeri
 
 ### 🔭 What I’m Currently Working On
 - Developing machine learning models for data analysis.
-
-
-
