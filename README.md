@@ -1,6 +1,8 @@
-## Hi there 👋
+<div style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
+  <h1 style="font-size: 36px; font-weight: bold; color: #0078D4;">👋 Hi there!</h1>
+  <p style="font-size: 18px; color: #555;">I am <strong>S MOHAMMED ASHIQ</strong>, currently pursuing my BE from RV College of Engineering. I am a passionate developer and analyst with a strong interest in various technologies, including web and app development, machine learning, and data analytics.</p>
+</div>
 
-I am **S MOHAMMED ASHIQ**, currently pursuing my BE from RV College of Engineering. I am a passionate developer and analyst with a strong interest in various technologies, including web and app development, machine learning, and data analytics. Here are the tech stacks I work with:
 
 ### Tech Stacks
 
