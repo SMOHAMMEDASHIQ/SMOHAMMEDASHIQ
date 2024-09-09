@@ -35,6 +35,14 @@ I am **S MOHAMMED ASHIQ**, currently pursuing my BE from RV College of Engineeri
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+- **Salesforce:**
+  ![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+  ![Service Cloud](https://img.shields.io/badge/Service_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+  ![Education Cloud](https://img.shields.io/badge/Education_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+  ![Health Cloud](https://img.shields.io/badge/Health_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+  ![Experience Cloud](https://img.shields.io/badge/Experience_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+
+
 
 
 ### 🔭 I’m currently working on ...
