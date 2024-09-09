@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  I am **S MOHAMMED ASHIQ**, currently pursuing my BE from RV College of Engineering. I am a passionate developer and analyst with a strong interest in various technologies, including web and app development, machine learning, and data analytics. Here's a glimpse of the tech stacks I work with:
+  I am S MOHAMMED ASHIQ, currently pursuing my BE from RV College of Engineering. I am a passionate developer and analyst with a strong interest in various technologies, including web and app development, machine learning, and data analytics. Here's a glimpse of the tech stacks I work with:
 </p>
 
 ### 🚀 Tech Stacks
