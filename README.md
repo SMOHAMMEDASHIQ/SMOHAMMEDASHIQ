@@ -1,4 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Ashiq</h1>
+<!-- Background color and styling are not directly supported in GitHub markdown. Use emojis and badges for visual appeal. -->
+
+<h1 align="center" style="font-size: 3em; color: #ff6347;">Hi there 👋, I'm Ashiq</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/s-mohammed-ashiq-111792236/">
@@ -56,4 +58,21 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F3
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+</p>
+
+#### ☁️ Salesforce
+<p align="center">
+  <img src="https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Sales Cloud"/>
+  <img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Service Cloud"/>
+  <img src="https://img.shields.io/badge/Education_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Education Cloud"/>
+  <img src="https://img.shields.io/badge/Health_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Health Cloud"/>
+  <img src="https://img.shields.io/badge/Experience_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Experience Cloud"/>
+</p>
+
+### 🔭 What I’m Currently Working On
+<p align="center">
+  <img src="https://media.giphy.com/media/26gsgAl3NoH8dJ4kI/giphy.gif" alt="Working On" width="200"/>
+</p>
+- Developing machine learning models for data analysis.
+
