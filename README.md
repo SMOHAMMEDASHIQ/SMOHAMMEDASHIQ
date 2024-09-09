@@ -34,6 +34,9 @@ I am **S MOHAMMED ASHIQ**, currently pursuing my BE from RV College of Engineeri
   ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 - **Salesforce:**
   ![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
