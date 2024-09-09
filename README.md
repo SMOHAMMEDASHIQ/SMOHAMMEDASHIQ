@@ -71,8 +71,5 @@
 </p>
 
 ### 🔭 What I’m Currently Working On
-<p align="center">
-  <img src="https://media.giphy.com/media/26gsgAl3NoH8dJ4kI/giphy.gif" alt="Working On" width="200"/>
-</p>
 - Developing machine learning models for data analysis.
 
