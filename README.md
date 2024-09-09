@@ -19,6 +19,8 @@ I am **S MOHAMMED ASHIQ**, currently pursuing my BE from RV College of Engineeri
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 - **Frameworks and Libraries:**
   ![Java SWINGS](https://img.shields.io/badge/Java_Swings-007396?style=flat-square&logo=java&logoColor=white)
@@ -27,15 +29,15 @@ I am **S MOHAMMED ASHIQ**, currently pursuing my BE from RV College of Engineeri
   ![Sklearn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 - **Tools and Platforms:**
+  ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+  ![SSMS](https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-### 🌱 I’m currently learning ...
-- **Machine Learning**
-- **Data Science**
+
 
 ### 🔭 I’m currently working on ...
-- Building web applications with React and Node.js
 - Developing machine learning models for data analysis
 
 ### 📫 How to reach me:
