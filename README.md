@@ -1,3 +1,5 @@
+<!-- Background color and styling are not directly supported in GitHub markdown. Use emojis and badges for visual appeal. -->
+
 <h1 align="center" style="font-size: 3em; color: #ff6347;">Hi there 👋, I'm Ashiq</h1>
 
 <p align="center">
@@ -20,9 +22,6 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
 </p>
 
 #### 🌐 Frontend Development
@@ -44,7 +43,7 @@
 
 #### 📚 Frameworks and Libraries
 <p align="center">
-  <img src="https://img.shields.io/badge/Java_Swings-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Swings"/>
+  <img src="https://img.shields.io/badge/Java_Swings-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java SWINGS"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Sklearn"/>
@@ -53,4 +52,25 @@
 #### 🛠️ Tools and Platforms
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/b
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/SQL_Server_Management_Studio-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SSMS"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+</p>
+
+#### ☁️ Salesforce
+<p align="center">
+  <img src="https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Sales Cloud"/>
+  <img src="https://img.shields.io/badge/Service_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Service Cloud"/>
+  <img src="https://img.shields.io/badge/Education_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Education Cloud"/>
+  <img src="https://img.shields.io/badge/Health_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Health Cloud"/>
+  <img src="https://img.shields.io/badge/Experience_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Experience Cloud"/>
+</p>
+
+### 🔭 What I’m Currently Working On
+- Developing machine learning models for data analysis.
+
+ in this add open cv , aurdino , matlab ---------- and do one thing for all languages i need only icon , or image of that programming language and give me most used github languages from my github in form of image , statistics , total contributions , current streaks , longest streaks
