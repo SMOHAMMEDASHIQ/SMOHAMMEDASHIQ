@@ -73,4 +73,18 @@
 ### 🔭 What I’m Currently Working On
 - Developing machine learning models for data analysis.
 
- in this add open cv , aurdino , matlab ---------- and do one thing for all languages i need only icon , or image of that programming language and give me most used github languages from my github in form of image , statistics , total contributions , current streaks , longest streaks
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sashiq2003&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/Powered%20by-GitHub%20Pages-327FC7.svg" alt="GitHub Pages"/>
+</p>
+
+<p align="center">
+  © 2024 S Mohammed Ashiq
+</p>
+
