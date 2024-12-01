@@ -73,8 +73,7 @@
   <img src="https://img.shields.io/badge/Experience_Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Experience Cloud"/>
 </p>
 
-### 🔭 What I’m Currently Working On
-- Developing machine learning models for data analysis.
+
 
 ---
 
